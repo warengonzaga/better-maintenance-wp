@@ -1,6 +1,6 @@
 # Better Maintenance WP (Release Candidate)
 
-[![created by](https://img.shields.io/badge/created%20by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://github.com/warengonzaga) [![Release](https://img.shields.io/github/release/warengonzaga/better-maintenance-wp.svg?style=flat-square)](https://github.com/warengonzaga/better-maintenance-wp/releases) [![Star](https://img.shields.io/github/stars/warengonzaga/better-maintenance-wp.svg?style=flat-square)](https://github.com/warengonzaga/better-maintenance-wp/stargazers) [![License](https://img.shields.io/github/license/warengonzaga/better-maintenance-wp.svg?style=flat-square)](https://github.com/warengonzaga/better-maintenance-wp/blob/main/LICENSE)
+[![created by](https://img.shields.io/badge/created%20by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://github.com/warengonzaga) [![discord](https://img.shields.io/discord/659684980137656340?color=%235865F2&label=discord&logo=discord&logoColor=white&style=flat-square)](https://wrngnz.ga/discord) [![release](https://img.shields.io/github/release/warengonzaga/better-maintenance-wp.svg?style=flat-square)](https://github.com/warengonzaga/better-maintenance-wp/releases) [![star](https://img.shields.io/github/stars/warengonzaga/better-maintenance-wp.svg?style=flat-square)](https://github.com/warengonzaga/better-maintenance-wp/stargazers) [![license](https://img.shields.io/github/license/warengonzaga/better-maintenance-wp.svg?style=flat-square)](https://github.com/warengonzaga/better-maintenance-wp/blob/main/license)
 
 A better maintenance mode plugin for WordPress. Simple and lightweight, no annoying ads and fancy settings.
 
@@ -18,6 +18,14 @@ The complete documentation can be found here:<br/>
 ## ⚡ Features
 
 (coming soon)
+
+## 📦 Installation
+
+To be able to start using this plugin just [download the latest release here](https://github.com/warengonzaga/better-maintenance-wp/releases/latest).
+
+- Upload the plugin (.zip file) to the /wp-content/plugins/ directory.
+- Activate the WP Disease Tracker WordPress plugin through the 'Plugins' menu in WordPress.
+- Use the shortcodes from Update Your Footer WP into your site's footer.
 
 ## 🕹️ Usage
 
